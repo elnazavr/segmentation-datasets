@@ -1,0 +1,459 @@
+chain:10
+disc:2
+microwave:26
+copying machine:0
+chair:1357
+dumbbell:0
+video game console:11
+swan:1
+drink dispenser:1
+ladle:1
+guardrail:35
+screwdriver:2
+fishbowl:1
+fan:40
+tank:2
+stapler:3
+tricycle:0
+gun:2
+sand:46
+hydrovalve:0
+radio:6
+sidewalk:382
+light bulb:1
+bicycle:503
+fence:1021
+sign:592
+gas hood:0
+bird cage:21
+tweezers:0
+clock:61
+sun:1
+stool:9
+switch:5
+net:3
+fish tank:3
+bird:664
+swim ring:2
+drum kit:8
+wakeboard:0
+electric fan:11
+pelage:0
+water:899
+scythe:0
+remote control:67
+sink:24
+box:434
+tire:35
+leaves:7
+smoke:56
+mouse pad:50
+pillow:55
+inflator pump:0
+musical instrument:7
+straw:6
+gift box:2
+rocking horse:1
+basketball backboard:6
+duck:15
+pottedplant:625
+tap:12
+projector:2
+bottle opener:1
+frog:1
+camera:52
+clothes tree:0
+pencil:2
+artillery:1
+door:455
+envelope:0
+faucet:4
+missile:1
+match book:1
+glass:21
+flag:100
+train:465
+stick:4
+rabbit:1
+fly:1
+car:1273
+cap:16
+cat:1006
+pool table:1
+wallet:7
+can:78
+parasol:17
+fishing pole:1
+cone:30
+wharf:0
+earphone:8
+lock:1
+dolphin:0
+parachute:4
+extinguisher:6
+court:2
+goal:4
+machine:0
+furnace:2
+bird nest:6
+typewriter:1
+map:3
+poker:1
+mat:35
+ladder:12
+pen container:8
+cell phone:43
+water dispenser:5
+light:908
+wheelchair:5
+counter:31
+robot:0
+scoop:1
+electronic keyboard:0
+truck:126
+road:1102
+basket:89
+egg:3
+patio:1
+lighter:5
+drinking machine:1
+signal light:43
+cross:3
+spatula:1
+paper:298
+electric iron:2
+oven:8
+keyboard:140
+shopping cart:2
+drainer:1
+accordion:2
+broom:5
+mattress:3
+platform:154
+window:756
+camera lens:0
+coffee:4
+surveillance camera:1
+food:285
+rake:1
+hard disk drive:0
+clippers:2
+dock:3
+snake:3
+video camera:11
+cage:29
+drop:0
+rock:396
+tray:9
+bone:3
+ironing board:1
+turtle:1
+crabstick:1
+video tape:3
+fish:7
+plant:106
+sled:2
+baby carriage:13
+tvmonitor:536
+flower:190
+container:61
+control booth:0
+fountain:1
+playground:1
+water pipe:3
+umbrella:13
+ipod:15
+cart:11
+disc case:16
+water skate board:1
+card:11
+dishwasher:0
+shelves:448
+skateboard:1
+glass marble:1
+swing:1
+corkscrew:0
+cash register:1
+hook:2
+scissors:5
+sheep:297
+horse:429
+toy:356
+monkey:1
+unknown:3734
+plastic:11
+ceiling:586
+shell:3
+tool:3
+life buoy:2
+wardrobe:2
+holder:2
+trash bin:91
+tree:3232
+bed:120
+flame:0
+iron:2
+sculpture:73
+bridge:31
+kart:1
+ladder truck:1
+saw:1
+sidecar:2
+lid:1
+mountain:728
+microphone:44
+escalator:0
+concrete:9
+chessboard:2
+snow:173
+equipment:27
+poster:185
+printer:34
+track:356
+blackboard:2
+sunglass:4
+napkin:120
+metal:216
+dog:1204
+pipe:16
+barrel:3
+oxygen bottle:1
+knife block:2
+electric saw:1
+kite:1
+stove:10
+crate:2
+cabinet door:1
+shoe:74
+chicken:0
+crane:12
+ground:2987
+stair:36
+menu:24
+plume:1
+jar:18
+fax machine:1
+wood:462
+tape:9
+photo:3
+electric pot:1
+piano:4
+wool:2
+pumpkin:2
+plate:346
+handle:2
+watch:6
+watermelon:2
+outlet:26
+cushion:75
+spice container:23
+horse-drawn carriage:25
+ashtray:18
+bag:319
+washing machine:17
+air conditioner:5
+recreational machines:1
+frame:17
+lion:0
+computer:118
+sewing machine:3
+racket:1
+calendar:15
+hammer:1
+game controller:4
+wire:113
+closet:1
+ornament:2
+hand cart:11
+tent:36
+gravestone:0
+cutting board:3
+screen:4
+mailbox:3
+fire extinguisher:2
+key:4
+comb:3
+guitar:53
+drum:9
+casette recorder:1
+cow:256
+baseball bat:1
+ramp:2
+drug:1
+receiver:13
+swimming pool:1
+stretcher:0
+tong:1
+bell:2
+wall:2794
+pot:310
+forklift:0
+cd:45
+pole:1555
+table:1566
+boat:466
+motorbike:471
+coffee machine:2
+beer:1
+curtain:381
+brick:9
+engine:2
+squirrel:1
+controller:3
+mannequin:1
+case:91
+spoon:75
+ski:3
+runway:2
+crutch:2
+rope:507
+kitchen range:12
+telephone booth:0
+aeroplane:597
+newspaper:30
+bathtub:5
+slippers:1
+pack:287
+handrail:7
+calculator:1
+chopstick:8
+candle holder:29
+player:24
+gas stove:0
+clip:1
+violin:4
+mouse:122
+helmet:62
+vending machine:2
+balloon:18
+toaster:5
+bowl:137
+forceps:0
+speaker:118
+pan:10
+wheel:8
+sweeper:0
+ball:25
+bird feeder:14
+snail:0
+foam:0
+rail:31
+poker chip:1
+binoculars:0
+fruit:2
+grandstand:30
+whale:0
+hot-air balloon:1
+floor:1895
+person:3919
+bottle:821
+telephone:71
+model:1
+rocket:0
+camel:0
+money:1
+laptop:75
+footbridge:1
+shovel:2
+sprayer:0
+fire hydrant:2
+dais:1
+flashlight:2
+cup:432
+sky:3231
+sunshade:3
+bench:119
+hay:3
+board:137
+hat:27
+radiator:27
+ruler:1
+mop:3
+fridge:69
+speed bump:0
+spanner:0
+towel:3
+snowmobiles:1
+postcard:1
+sofa:831
+pillar:8
+bracelet:1
+window blinds:1
+glove:6
+shed:2
+cd player:1
+atrium:1
+lobster:0
+mirror:81
+candle:43
+fishing net:1
+scale:2
+tube:3
+kettle:1
+fox:0
+ice:6
+pen:44
+vacuum cleaner:6
+earrings:1
+recorder:2
+knife:92
+eyeglass:15
+gas cylinder:0
+trampoline:1
+rug:181
+cork:0
+meter box:1
+pliers:1
+stage:16
+trophy:2
+stone:0
+saddle:85
+coral:0
+wineglass:197
+ferris wheel:1
+heater:4
+range hood:8
+headphone:7
+tableware:3
+hanger:3
+brush:120
+toy car:2
+globe:0
+fork:104
+funnel:1
+bus:399
+pitcher:3
+tripod:2
+cabinet:536
+cloth:877
+helicopter:3
+line:1
+flagstaff:3
+exhibition booth:2
+bucket:175
+cello:4
+cake:2
+grass:2742
+toilet:2
+scanner:1
+toothbrush:1
+pig:1
+parterre:1
+antenna:2
+fire place:41
+book:416
+oar:10
+tarp:2
+picture:674
+sticky note:2
+dray:1
+paper box:4
+game machine:3
+paper cutter:6
+building:3064
+video player:37
+cooker:0
+bamboo weaving:1
+mask:0
+bedclothes:296
+sewer:2

@@ -1,0 +1,80 @@
+toilet:4157
+fire hydrant:1865
+cup:20650
+bicycle:7113
+kite:9076
+stop sign:1983
+tennis racket:4812
+teddy bear:4793
+donut:7179
+snowboard:2685
+frisbee:2682
+motorcycle:8725
+oven:3334
+keyboard:2855
+wine glass:7913
+chair:38491
+bench:9838
+mouse:2262
+airplane:5135
+boat:10759
+apple:5851
+sheep:9509
+horse:6587
+banana:9458
+clock:6334
+tv:5805
+traffic light:12884
+toaster:225
+bowl:14358
+microwave:1673
+couch:5779
+book:24715
+scissors:1481
+elephant:5513
+orange:6399
+tie:6496
+bird:10806
+knife:7770
+pizza:5821
+fork:5479
+hair drier:198
+sandwich:4373
+umbrella:11431
+parking meter:1285
+bus:6069
+suitcase:6192
+bear:1294
+vase:6613
+toothbrush:1954
+spoon:6165
+train:4571
+sink:5610
+potted plant:8652
+handbag:12354
+cell phone:6434
+broccoli:7308
+refrigerator:2637
+laptop:4970
+remote:5703
+surfboard:6126
+cow:8147
+dining table:15714
+hot dog:2918
+car:43867
+sports ball:6347
+skateboard:5543
+dog:5508
+bed:4192
+cat:4768
+person:262465
+skis:6646
+giraffe:5131
+truck:9973
+bottle:24342
+baseball bat:3276
+cake:6353
+baseball glove:3747
+carrot:7852
+backpack:8720
+zebra:5303

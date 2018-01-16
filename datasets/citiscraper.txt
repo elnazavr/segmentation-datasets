@@ -1,0 +1,40 @@
+bridge:414
+bicycle:4904
+fence:2839
+wall:1979
+caravan:69
+terrain:5070
+traffic sign:24976
+license plate:6289
+pole:52748
+ridergroup:13
+static:47217
+motorcycle:888
+parking:1216
+bicyclegroup:1049
+ground:2151
+out of roi:5000
+traffic light:11898
+sky:3421
+polegroup:364
+rail track:131
+motorcyclegroup:9
+truckgroup:1
+bus:483
+rectification border:7376
+rider:2363
+vegetation:17745
+persongroup:1069
+guard rail:80
+dynamic:4253
+cargroup:2055
+ego vehicle:5000
+building:8301
+tunnel:29
+car:31822
+person:21413
+train:194
+truck:582
+trailer:89
+sidewalk:8349
+road:3616
