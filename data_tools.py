@@ -15,7 +15,10 @@ def get_json_from_files(filename):
     for line in lines:
         if line!="":
             mas = line.split(":")
-            dict_children.append({"name": mas[0], "size": mas[1]})
+            if len(mas)>1:
+                dict_children.append({"name": mas[0], "size": mas[1]})
+            else:
+                dict_children.append({"name": mas[0], "size": 10})
     return dict_children
 
 
