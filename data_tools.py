@@ -28,7 +28,10 @@ def get_dict_from_file(filename):
     for line in lines:
         if line!="":
             mas = line.split(":")
-            dict_children[mas[0]] = int(mas[1])
+            if len(mas)>1:
+                dict_children[mas[0]] = int(mas[1])
+            else:
+                dict_children[mas[0]] = 0
     return dict_children
  
     
