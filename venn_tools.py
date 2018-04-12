@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 from matplotlib_venn import venn2
 from matplotlib_venn_wordcloud import venn2_wordcloud, venn3_wordcloud
 
+from data_tools import get_names_from_files
+
 
 def draw_word_venn(datasets, dataset_name1, dataset_name2):
     fig, ax = plt.subplots(1, 1, figsize=(30, 30))
