@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 def get_json_from_files(filename):
     lines = get_list_from_files(filename)
     dict_children = []
